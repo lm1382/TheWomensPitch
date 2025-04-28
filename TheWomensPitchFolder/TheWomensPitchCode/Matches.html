@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="The Women's Pitch - Your hub for women's football news, matches, grassroots clubs, and more.">
+  <title>The Women's Pitch</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/stylesheet2.css">
+</head>
+
+<body>
+    
+  <!--hero section-->
+  <header class="hero">
+    <div class="hero-container">
+      <img src="images/logo.png" alt="The Women's Pitch Logo" class="logo">
+  
+      <div class="hero-text">
+        <h1>The Women's Pitch</h1>
+        <p>View your favourite teams match results with ease.</p>
+
+        <p><b>Please note: This data is from the 2023/24 season.</b></p>
+
+
+        <div class="navbar">
+            <div class="dropdown">
+                <button class="explore-button" id="exploreDropdown">Explore Now</button>
+                <div class="dropdownMenu" id="exploreMenu">
+                    <ol>
+                    <li><a href="Home.html">Home</a></li>
+                    <li><a href="Grassroots.html">Grassroots Clubs</a></li>
+                    <li><a href="Issues.html">Current Issues</a></li>
+                    <li><a href="AboutUs.html">About Us</a></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+        </div>
+        </div>
+  </header>
+
+
+
+  
+    <!-- not in use
+  <nav id="explore-nav" class="hide-nav" style="display: none;">
+    <ul>
+        <li><a href="index2.html">Home</a></li>
+        <li><a href="grassroots2.html">Grassroots Clubs</a></li>
+        <li><a href="issues2.html">Current Issues</a></li>
+        <li><a href="about2.html">About Us</a></li>
+    </ul>
+  </nav>
+    -->
+<br>
+
+ <!--loading symbol https://css-loaders.com/-->
+<div class="loadingContainer" id="loadingContainer">
+  <div class="loader" id="loader"></div>
+  <p>Please wait just a moment- do not refresh the page.</p>
+</div>
+
+
+<section id="match-schedule-section">
+
+    <div class="team-selector">
+  <label for="team-select" class="team-label">Select Your Team:</label>
+  <select id="team-select" class="team-dropdown">
+    <option value="all">All Teams</option>
+  </select>
+</div>
+
+    
+    <div class="sort-selector">
+  <label for="sort-date" class="date-label">Sort by Date:</label>
+<select id="sort-date" class="date-dropdown">
+  <option value="asc">Ascending</option>
+  <option value="desc">Descending</option>
+</select>
+</div>
+
+    
+    <div class="homeaway-selector">
+  <label for="sort-homeaway" class="homeaway-label">Sort by Home & Away:</label>
+<select id="sort-homeaway" class="homeaway-dropdown">
+    <option value="all">All</option>
+    <option value="home">Home</option>
+    <option value="away">Away</option>
+</select>
+</div>
+
+
+    <!--match schedule table for api data-->
+    <div class="match-table-container">
+    <table id="match-table">
+        <thead>
+            <tr>
+                <th scope="col">Date and Time</th>
+                <th scope="col">Home Team</th>
+                <th scope="col">Away Team</th>
+                <th scope="col">Venue</th>
+                <th scope="col">Final Score</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    </div>
+</section>
+
+<br>
+<br>
+
+<footer class="privacy-policy">
+    <h3>Where can you watch the WSL?</h3>
+    <h4>You can tune in and watch the Barclays WSL live each week on BBC, Sky, or the <a href="https://www.youtube.com/@BarclaysWSL">new Youtube channel.</a> </h4>
+</footer>
+
+  <script src="javaScript/index.js"></script>  
+  <script src="javaScript/matches.js"></script>
+
+</body>
+</html>

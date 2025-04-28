@@ -1,0 +1,48 @@
+[27-Feb-2025 15:49:27 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[27-Feb-2025 15:49:27 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[27-Feb-2025 15:49:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[27-Feb-2025 15:51:02 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[27-Feb-2025 15:51:02 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[27-Feb-2025 15:51:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:06:44 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:06:44 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:06:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:13:01 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:13:01 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:13:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:13:17 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:13:17 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:13:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:15:06 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:15:06 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:15:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:15:18 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:15:18 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[28-Feb-2025 14:15:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[01-Mar-2025 16:30:01 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[01-Mar-2025 16:30:01 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
+[01-Mar-2025 16:30:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/lm1382/public_html/TheWomen'sPitch/javaScript/checkoutSession.php on line 2
